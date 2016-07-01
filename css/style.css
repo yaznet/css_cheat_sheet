@@ -60,3 +60,9 @@ table /* taille du tableau */
 td {
     text-align: left;
 }
+
+/* Footer style */
+
+footer {
+	background-color: orange;
+}
