@@ -39,3 +39,24 @@ h1 {
 a:hover {
     text-decoration: underline;
 }
+
+/* Table style */
+
+table /* taille du tableau */
+{
+    width: 250px;
+    margin: 30px auto;
+    border-collapse: collapse;
+}
+
+.th_orange {
+	background-color: orange;
+}
+
+.td_grey {
+	background-color: #ECECEC;
+}
+
+td {
+    text-align: left;
+}
