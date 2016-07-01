@@ -33,3 +33,9 @@ h1 {
     padding-right: 20px;
     font-size: 25px;
 }
+
+/* link style */
+/* decoration liens survolé */
+a:hover {
+    text-decoration: underline;
+}
